@@ -1,79 +1,62 @@
 <h1 align="center">Hi 👋, I'm Esha Shakir</h1>
-<h3 align="center">AI/ML Engineer | LLMs, Deep Learning, RAG Systems | FastAPI | Data Engineering</h3>
+<h3 align="center">AI/ML Engineer | LLMs • Deep Learning • FastAPI • RAG Systems</h3>
 
 ---
 
-## 🚀 About Me  
-I am an **AI/ML Engineer** with hands-on experience in building, training, and deploying machine learning, deep learning, and LLM-powered applications. I specialize in **Python, TensorFlow, FastAPI, and AWS EC2**, with strong expertise in **RAG pipelines, vector databases, and backend AI integrations**.
-
-I have built intelligent AI systems across healthcare, finance, and automation — including chatbots, predictive analytics, document analyzers, and data-driven applications.
-
----
-
-## 🧑‍💻 Professional Experience  
-
-### **🔹 AI/ML Engineer — Evren AI (Feb 2025 — Present)**  
-- Developing **AI-driven backend services** using FastAPI.  
-- Building **LLM and RAG-based applications** for real-time intelligent automation.  
-- Integrating **AI pipelines** with production systems and microservices.  
-- Managing databases using **PostgreSQL** for scalable AI workflows.
-
-### **🔹 ML Intern — Solutyics (Oct 2024 — Jan 2025)**  
-- Built & optimized ML/DL models using **Python, TensorFlow, and Keras**.  
-- Designed **data pipelines** for preprocessing and feature engineering.  
-- Performed EDA using Pandas, Seaborn, and Matplotlib.  
-- Worked on **image classification, predictive analytics**, and model deployment.
+## 🧑‍💻 About Me  
+🎯 AI/ML Engineer with strong expertise in **Machine Learning, Deep Learning, LLMs, and RAG Systems**.  
+⚙️ Skilled in Python, TensorFlow, FastAPI, PostgreSQL, and modern AI application development.  
+🚀 Passionate about building intelligent systems like chatbots, document analyzers, ETL automations, and predictive models.  
+🌐 Always exploring cutting-edge AI tools including **LangChain, AWS EC2, and Vector Databases**.
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠 Tech Stack  
 
-### **AI / Machine Learning**  
-- Machine Learning, Deep Learning  
-- LLMs, Prompt Engineering  
-- RAG (Retrieval-Augmented Generation)  
-- LangChain, LangSmith  
-- Transformers  
-- TensorFlow, Keras, Scikit-Learn  
+### **ML & AI**
+- 🧠 Machine Learning, Deep Learning  
+- 🤖 LLMs & Prompt Engineering  
+- 🧩 RAG Systems  
+- 🔗 LangChain, LangSmith  
+- 📊 Scikit-Learn, TensorFlow, Keras  
 
-### **Backend & Deployment**  
-- FastAPI  
-- PostgreSQL  
-- REST APIs  
-- AWS EC2  
-- Docker  
+### **Backend Development**
+- ⚡ FastAPI  
+- 🐘 PostgreSQL  
+- 🔌 REST APIs  
+- 🐳 Docker  
+- ☁️ AWS EC2  
 
-### **Data Engineering / Visualization**  
-- Pandas  
-- Numpy  
-- Matplotlib, Seaborn  
-- ETL Pipelines  
-- Automated Data Cleaning  
+### **Data Engineering & Visualization**
+- 🧹 ETL Pipelines  
+- 🛠 Pandas, Numpy  
+- 📈 Matplotlib, Seaborn  
+- 🗂 Automated Data Cleaning  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🔹 **Medical Report Analyzer (LLM + FastAPI)**  
-An AI-powered tool that analyzes medical reports, extracts medical entities, and generates summaries using transformer-based models.
+AI application that extracts key medical information and generates summaries from medical reports.
 
-### 🔹 **Loan Approval Prediction System**  
-ML pipeline predicting loan approval decisions using structured banking datasets.
+### 🔹 **Loan Approval Prediction (ML Model)**  
+Supervised ML pipeline predicting loan approvals using structured financial data.
 
-### 🔹 **Cat vs Dog Image Classifier (CNN)**  
-A TensorFlow/Keras deep learning model classifying images into cats or dogs with high accuracy.
+### 🔹 **Cat vs Dog Classifier (CNN)**  
+Deep learning classification model using TensorFlow/Keras for image recognition.
 
-### 🔹 **Weather & News Assistant (AI Agent)**  
-An intelligent assistant that fetches weather updates, news headlines, and answers questions using LLMs and API integrations.
+### 🔹 **Weather & News AI Assistant**  
+An AI agent that provides real-time weather, news, and Q&A via APIs and LLM reasoning.
 
-### 🔹 **Healthcare Website + IntelliBot**  
-A healthcare platform integrated with a smart AI chatbot for patient support and basic medical guidance.
+### 🔹 **Healthcare Platform + IntelliBot**  
+A smart healthcare interface powered by an AI chatbot for patient support.
 
 ---
 
 ## 🌐 Connect With Me  
+
 📩 **Email:** eshas2453@gmail.com  
-📱 **Phone:** 0307-8010657  
 🔗 **LinkedIn:** https://www.linkedin.com/in/eshashakir/  
 
 <p align="left">
@@ -87,24 +70,25 @@ A healthcare platform integrated with a smart AI chatbot for patient support and
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 Github Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshashakir&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshashakir&show_icons=true&theme=react" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshashakir&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshashakir&theme=react" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshashakir&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshashakir&layout=compact&theme=react" height="170" />
 </p>
 
 ---
 
-## 🧩 Fun Fact  
-I love transforming complex real-world problems into clean, scalable, AI-powered solutions.
+## ✨ Fun Fact  
+I love turning complex problems into **clean, scalable AI solutions** — from chatbots to intelligent automation.
 
 ---
 
-⭐ **Open to collaborations on AI/ML, LLM applications, and backend automation projects!**
+⭐ **Let’s collaborate on AI/ML, LLM apps, and backend automation projects!**
